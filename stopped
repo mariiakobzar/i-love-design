@@ -1,0 +1,77 @@
+[33mcommit 267c9ecb046c17a8682e4861e837bc79036b44aa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: alexcss <kalyuzhnyi@gmail.com>
+Date:   Wed Dec 23 12:01:10 2015 +0200
+
+    add grid
+
+[33mcommit 0d51604d9d467c6218e787f8bd12a03197333f18[m
+Author: alexcss <kalyuzhnyi@gmail.com>
+Date:   Sun Dec 20 20:46:31 2015 +0200
+
+    remove grids
+
+[33mcommit cddc40837d36541bd61c9059614260755814dfea[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Wed Oct 21 13:48:00 2015 +0300
+
+    gitignore fix
+
+[33mcommit 2db760b33b07b9a2795809cce987fd84e42bc564[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Oct 17 12:45:39 2015 +0300
+
+    js file
+
+[33mcommit 97155c3e36f67b8f0ed7af2450d80badfccc6294[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Mon Oct 12 13:04:07 2015 +0300
+
+    fixed lang attribute
+
+[33mcommit 0cb3b242ddc9b092d8564b4944f22cbbb5510529[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Oct 10 14:20:24 2015 +0300
+
+    responsive floats
+
+[33mcommit bcfa9bf467fc9de52db2007f3895c86a442aca89[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Oct 10 13:32:10 2015 +0300
+
+    media queries
+
+[33mcommit cf334e3a45ba68de057a39f98cfc00baeb9282be[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Mon Sep 28 22:02:38 2015 +0300
+
+    more typography def styles
+
+[33mcommit 1e1f49084cc1c4a05c3b7b80cdd506c6a085c636[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Wed Sep 23 18:12:03 2015 +0300
+
+    add cf
+
+[33mcommit 2cddb778f5062d06aa0c53d70eb14aa764563a6d[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Sep 19 12:44:45 2015 +0300
+
+    add grid
+
+[33mcommit 3aee3d92a0f533f830f9822378d005754a5a2efc[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Sep 19 12:28:45 2015 +0300
+
+    add grid
+
+[33mcommit 35bc092ee7163c271368c1296340c3433805d66a[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Sep 12 12:23:05 2015 +0300
+
+    Add section and article
+
+[33mcommit a40c0cd3ba5e43e30e0f4702d3e1d3a29cbb5ece[m
+Author: AlexCSS <kalyuzhnyi@gmail.com>
+Date:   Sat Sep 12 12:11:56 2015 +0300
+
+    Add starter files
